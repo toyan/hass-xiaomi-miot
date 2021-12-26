@@ -172,6 +172,7 @@ MIOT_LOCAL_MODELS = [
     'yeelink.light.mono6',
     'yeelink.light.monob',
     'yeelink.light.stripa',
+    'yeelink.light.strip6',
     'yeelink.switch.sw1',
     'ymt.flowerpot.v1',
     'yuemee.sensor_gas.56712',
